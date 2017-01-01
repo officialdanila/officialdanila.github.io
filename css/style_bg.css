@@ -1,0 +1,22 @@
+body {
+background-color: #C3C3C3;
+}
+
+#main 
+{
+	width:800px;
+	height:421px;
+	margin:29px auto;
+	outline: 1px solid #FFDD00;
+	background-image: url(../images/bg.jpg);
+}
+
+#main h1{
+	text-align:center;
+	outline: 1px solid #FFDD00;
+	padding-top: 182px;
+	background-image: url(../images/logo.png);
+	background-repeat:no-repeat;
+	background-position:120px 187px;
+	font: 36px verdana;
+}

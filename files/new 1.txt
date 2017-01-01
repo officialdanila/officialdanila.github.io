@@ -1,0 +1,2 @@
+subplot(5,5,10);
+plot(sin(x))
